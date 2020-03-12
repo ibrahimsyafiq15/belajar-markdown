@@ -26,7 +26,6 @@ Contoh 1:
 
 ![Alt Text](https://guides.github.com/images/logo@2x.png)
 
-Contoh 2
+halo umer
 
-![GitHub Logo](map.png)
-
+hdaslhnadnfalsnfliasnln
